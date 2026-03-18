@@ -23,4 +23,4 @@ My work focuses on:
 • building tools that reduce operational friction
 
 ## Contact
-LinkedIn: www.linkedin.com/in/jason-stancil
+LinkedIn: https://www.linkedin.com/in/jason-stancil

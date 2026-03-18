@@ -17,6 +17,7 @@ Designed around validation, staged processing, archive verification, and failure
 
 ## Engineering Direction
 My work focuses on:
+
 • reliability over novelty  
 • clarity over abstraction  
 • solving real workflow risk  

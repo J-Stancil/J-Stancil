@@ -16,8 +16,6 @@ Automated disaster-recovery system for DAW production environments.
 Designed around validation, staged processing, archive verification, and failure notification.
 
 ## Engineering Direction
-My work focuses on:
-
 • reliability over novelty  
 • clarity over abstraction  
 • solving real workflow risk  

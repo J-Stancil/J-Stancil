@@ -5,7 +5,7 @@ Python automation developer focused on reliability engineering, workflow tooling
 I build infrastructure-minded utilities that solve operational problems rather than theoretical ones.
 
 ## Current Focus
-• Automation systems on macOS  
+• Automation systems and processes  
 • Backup and reliability tooling  
 • Workflow infrastructure for creative production environments  
 • Practical Python engineering

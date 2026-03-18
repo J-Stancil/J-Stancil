@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Jason Stancil
 
 Python automation developer focused on reliability engineering, workflow tooling, and real-world system design.
